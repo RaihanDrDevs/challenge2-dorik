@@ -1,0 +1,55 @@
+
+body {
+    font-family: system-ui, "Segoe UI", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji" ;
+    }
+    
+
+.wrapper{
+    width: 1180px;
+    margin: 0 auto;
+}
+
+
+
+.text_color {
+    color: #45426e;
+}
+
+.color_header {
+    color: #17134a;
+}
+
+.bg_color{
+    background-color: #3a30ba;
+}
+
+.bg_others{
+    background-color: #FFF9F3;
+}
+
+svg {
+    width: 20px;
+    color: #3a2fba;
+    margin-right: 5px;
+  }
+
+.brand_img {
+    height: 40px;
+}
+
+.com_img {
+    height: 50px;
+}
+
+.com_bran_img{
+        object-fit: contain ;
+        width: 80%;
+        /* height: 40px; */
+        filter: grayscale(100%) sepia(0%) blur(0px) brightness(100%) hue-rotate(0deg) saturate(100%) opacity(100%) contrast(100%) invert(0%);
+}
+
+.bg_font{
+    font-family: Della Respira;
+    font-size: 50px;
+    line-height: 1.2;
+}
